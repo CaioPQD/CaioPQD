@@ -40,5 +40,5 @@
 ## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://linkedin.com/in/caiomaciel2025)  
-- 📧 **seuemail@email.com**  
+- 📧 **profissionalcaiomaciel@email.com**  
 - 🌍 [Meu GitHub](https://github.com/CaioPQD)  
